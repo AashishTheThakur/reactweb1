@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/aashishthethakur/static/css/main.51750177.chunk.css",
+    "main.js": "/aashishthethakur/static/js/main.8882c9e4.chunk.js",
+    "main.js.map": "/aashishthethakur/static/js/main.8882c9e4.chunk.js.map",
+    "runtime-main.js": "/aashishthethakur/static/js/runtime-main.947740c0.js",
+    "runtime-main.js.map": "/aashishthethakur/static/js/runtime-main.947740c0.js.map",
+    "static/js/2.eb56fbb2.chunk.js": "/aashishthethakur/static/js/2.eb56fbb2.chunk.js",
+    "static/js/2.eb56fbb2.chunk.js.map": "/aashishthethakur/static/js/2.eb56fbb2.chunk.js.map",
+    "static/js/3.7d971de1.chunk.js": "/aashishthethakur/static/js/3.7d971de1.chunk.js",
+    "static/js/3.7d971de1.chunk.js.map": "/aashishthethakur/static/js/3.7d971de1.chunk.js.map",
+    "index.html": "/aashishthethakur/index.html",
+    "static/css/main.51750177.chunk.css.map": "/aashishthethakur/static/css/main.51750177.chunk.css.map",
+    "static/js/2.eb56fbb2.chunk.js.LICENSE.txt": "/aashishthethakur/static/js/2.eb56fbb2.chunk.js.LICENSE.txt",
+    "static/media/Quiz.27dc8950.png": "/aashishthethakur/static/media/Quiz.27dc8950.png",
+    "static/media/chat.2946a16c.png": "/aashishthethakur/static/media/chat.2946a16c.png",
+    "static/media/live.89fd8b09.png": "/aashishthethakur/static/media/live.89fd8b09.png",
+    "static/media/logo.b37bdd23.png": "/aashishthethakur/static/media/logo.b37bdd23.png",
+    "static/media/pic.c76e78b3.png": "/aashishthethakur/static/media/pic.c76e78b3.png",
+    "static/media/video.3b620dad.png": "/aashishthethakur/static/media/video.3b620dad.png",
+    "static/media/whatsapp.0c7472ec.png": "/aashishthethakur/static/media/whatsapp.0c7472ec.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.947740c0.js",
+    "static/js/2.eb56fbb2.chunk.js",
+    "static/css/main.51750177.chunk.css",
+    "static/js/main.8882c9e4.chunk.js"
+  ]
+}

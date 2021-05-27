@@ -1,12 +1,39 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import './App.css';
 import './index.css';
-import App from './App';
-import reportWebVitals from './reportWebVitals';
 
+import reportWebVitals from './reportWebVitals';
+import Navbar from './components/Navbar';
+import Header from "./components/Header";
+import Contact from "./components/Contact";
+import About from "./components/About";
+import Portfolio from "./components/Portfolio";
+import Footer from "./components/Footer";
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+  <>
+  <particles
+    params={{
+                    polygon: {
+                        enable: true,
+                        type: 'inside',
+                        move: {
+                            radius: 10
+                        },
+                        url: 'path/to/svg.svg'
+                    }
+                }}
+  />
+  <Navbar/>
+  <Header/>
+  <About/>
+  <Portfolio/>
+  <Contact/>
+  <Footer/>
+  
+  
+  </>
   </React.StrictMode>,
   document.getElementById('root')
 );
